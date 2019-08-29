@@ -55,17 +55,28 @@ author_profile: true
 <b>Yuan Yuan</b>, Wolfgang Banzhaf.
 <i>Proceedings of the Genetic and Evolutionary Computation Conference (GECCO)</i>, 2019, pp. 1417-1425.
 
+<b>[Evolutionary multitasking in permutation-based combinatorial optimization problems: Realization with TSP, 
+QAP, LOP, and JSP](http://)</b> <br> 
+<b>Yuan Yuan</b>, Yew-Soon Ong, Abhishek Gupta, Puay Siew Tan, Hua Xu.
+<i>Proceedings of IEEE Region 10 Conference (TENCON)</i>, 2016, pp. 3157-3164.
+
+
 <b>[An experimental investigation of variation operators in reference-point based many-objective optimization](http://)</b> <br> 
-<b>Yuan Yuan</b>, Hua Xu, Bo Wang
+<b>Yuan Yuan</b>, Hua Xu, Bo Wang.
 <i>Proceedings of the Genetic and Evolutionary Computation Conference (GECCO)</i>, 2015, pp. 775-782.
 
 <b>[Evolutionary many-objective optimization using ensemble fitness ranking](http://)</b> <br> 
-<b>Yuan Yuan</b>, Wolfgang Banzhaf.
+<b>Yuan Yuan</b>, Hua Xu, Bo Wang.
 <i>Proceedings of the Genetic and Evolutionary Computation Conference (GECCO)</i>, 2014, pp. 669-676.
 
 <b>[An improved NSGA-III procedure for evolutionary many-objective optimization](http://)</b> <br> 
 <b>Yuan Yuan</b>, Hua Xu, Bo Wang
 <i>Proceedings of the Genetic and Evolutionary Computation Conference (GECCO)</i>, 2014, pp. 661-668.
+
+
+<b>[A memetic algorithm for the multi-objective flexible job shop scheduling problem](http://)</b> <br> 
+<b>Yuan Yuan</b>, Hua Xu.
+<i>Proceedings of the Genetic and Evolutionary Computation Conference (GECCO)</i>, 2013, pp. 559-566.
 
 
 
