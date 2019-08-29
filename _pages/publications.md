@@ -80,3 +80,7 @@ QAP, LOP, and JSP](http://)</b> <br>
 
 
 
+<b>[HHS/LNS: An integrated search method for flexible job shop scheduling](http://)</b> <br> 
+<b>Yuan Yuan</b>, Hua Xu.
+<i>Proceedings of IEEE Congress on Evolutionary Computation (CEC)</i>, 2012, pp. 1-8.
+
