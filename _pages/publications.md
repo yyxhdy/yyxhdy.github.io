@@ -43,7 +43,7 @@ author_profile: true
 
 <b>[A hybrid harmony search algorithm for the flexible job shop scheduling problem](http://)</b> <br> 
 <b>Yuan Yuan</b>, Hua Xu, Jiadong Yang.
-<i>Applied Soft Computing</i>, 13(7):3259-3272, 2013.
+<i>[Applied Soft Computing](https://)</i>, 13(7):3259-3272, 2013.
 
 
 
