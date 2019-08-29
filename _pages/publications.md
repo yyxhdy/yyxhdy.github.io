@@ -4,7 +4,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Journal Papers
+## Refereed Journal Papers
+
 <b>[Towards better evolutionary program repair: An integrated approach](http://)</b> <br> 
 <b>Yuan Yuan</b>, Wolfgang Banzhaf.
 <i>ACM Transactions on Software Engineering and Methodology</i>, accepted.
@@ -20,5 +21,51 @@ author_profile: true
 <b>[Balancing convergence and diversity in decomposition-based many-objective optimizers](http://)</b> <br> 
 <b>Yuan Yuan</b>, Hua Xu, Bo Wang, Bo Zhang, Xin Yao.
 <i>IEEE Transactions on Evolutionary Computation</i>, 20(2):180-198, 2016.
+
+<b>[A new dominance relation-based evolutionary algorithm for many-objective optimization](http://)</b> <br> 
+<b>Yuan Yuan</b>, Hua Xu, Bo Wang, Xin Yao.
+<i>IEEE Transactions on Evolutionary Computation</i>, 20(1):16-37, 2016.
+
+<b>[Multiobjective flexible job shop scheduling using memetic algorithms](http://)</b> <br> 
+<b>Yuan Yuan</b>, Hua Xu, Bo Wang, Bo Zhang, Xin Yao.
+<i>IEEE Transactions on Automation Science and Engineering</i>, 12(1):336-353, 2015.
+
+
+<b>[An integrated search heuristic for large-scale flexible job shop scheduling problems](http://)</b> <br> 
+<b>Yuan Yuan</b>, Hua Xu.
+<i>Computers & Operations Research</i>, 40(12):2864-2877, 2013.
+
+
+<b>[Flexible job shop scheduling using hybrid differential evolution algorithms](http://)</b> <br> 
+<b>Yuan Yuan</b>, Hua Xu.
+<i>Computers & Industrial Engineering</i>, 65(2):246-260, 2013.
+
+
+<b>[A hybrid harmony search algorithm for the flexible job shop scheduling problem](http://)</b> <br> 
+<b>Yuan Yuan</b>, Hua Xu, Jiadong Yang.
+<i>Applied Soft Computing</i>, 13(7):3259-3272, 2013.
+
+
+
+## Conference Papers
+
+
+
+<b>[A hybrid evolutionary system for automatic software repair](http://)</b> <br> 
+<b>Yuan Yuan</b>, Wolfgang Banzhaf.
+<i>Proceedings of the Genetic and Evolutionary Computation Conference (GECCO)</i>, 2019, pp. 1417-1425.
+
+<b>[An experimental investigation of variation operators in reference-point based many-objective optimization](http://)</b> <br> 
+<b>Yuan Yuan</b>, Hua Xu, Bo Wang
+<i>Proceedings of the Genetic and Evolutionary Computation Conference (GECCO)</i>, 2015, pp. 775-782.
+
+<b>[Evolutionary many-objective optimization using ensemble fitness ranking](http://)</b> <br> 
+<b>Yuan Yuan</b>, Wolfgang Banzhaf.
+<i>Proceedings of the Genetic and Evolutionary Computation Conference (GECCO)</i>, 2014, pp. 669-676.
+
+<b>[An improved NSGA-III procedure for evolutionary many-objective optimization](http://)</b> <br> 
+<b>Yuan Yuan</b>, Hua Xu, Bo Wang
+<i>Proceedings of the Genetic and Evolutionary Computation Conference (GECCO)</i>, 2014, pp. 661-668.
+
 
 
