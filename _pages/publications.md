@@ -16,6 +16,22 @@ author_profile: true
 [[PDF]](http://yyxhdy.github.io/files/TSE2018.pdf)
 [[Code]](https://github.com/yyxhdy/arja)
 
+
+<b>[Blockchain-based cloudlet management for multimedia workflow in mobile cloud computing](https://doi.org/10.1007/s11042-019-07900-x)</b> <br> 
+Xiaolong Xu, Yi Chen, <b>Yuan Yuan</b>, Tao Huang, Xuyun Zhang, Lianyong Qi.
+<i>[Multimedia Tools and Applications](https://link.springer.com/journal/11042)</i>, in press.
+
+
+<b>[A QoS-aware virtual machine scheduling method for energy conservation in cloud-based cyber-physical systems](https://doi.org/10.1007/s11280-019-00684-y)</b> <br> 
+Lianyong Qi, Yi Chen, <b>Yuan Yuan</b>, Shucun Fu, Xuyun Zhang, Xiaolong Xu.
+<i>[World Wide Web](https://link.springer.com/journal/11280)</i>, in press.
+
+
+<b>[Multiobjective computation offloading for workflow management in cloudlet‐based mobile cloud using NSGA‐II](https://doi.org/10.1111/coin.12197)</b> <br> 
+Xiaolong Xu, Shucun Fu, <b>Yuan Yuan</b>, Yun Luo, Lianyong Qi, Wenmin Lin, Wanchun Dou.
+<i>[Computational Intelligence](https://onlinelibrary.wiley.com/journal/14678640)</i>, in press.
+
+
 <b>[An edge computing-enabled computation offloading method with privacy preservation for internet of connected vehicles](https://doi.org/10.1016/j.future.2019.01.012)</b> <br> 
 Xiaolong Xu, Yuan Xue, Lianyong Qi, <b>Yuan Yuan</b>, XuyunZhang, Tariq Umer, Shaohua Wan
 <i>[Future Generation Computer Systems](https://www.journals.elsevier.com/future-generation-computer-systems)</i>, 96:89-100, 2019.
