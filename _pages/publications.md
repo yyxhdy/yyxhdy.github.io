@@ -16,6 +16,12 @@ author_profile: true
 [[PDF]](http://yyxhdy.github.io/files/TSE2018.pdf)
 [[Code]](https://github.com/yyxhdy/arja)
 
+<b>[An edge computing-enabled computation offloading method with privacy preservation for internet of connected vehicles]
+(https://doi.org/10.1016/j.future.2019.01.012)</b> <br> 
+Xiaolong Xu, Yuan Xue, Lianyong Qi, <b>Yuan Yuan</b>, XuyunZhang, Tariq Umer, Shaohua Wan
+<i>[Future Generation Computer Systems](https://www.journals.elsevier.com/future-generation-computer-systems)</i>, 96:89-100, 2019.
+
+
 <b>[Objective reduction in many-objective optimization: Evolutionary multiobjective approaches and comprehensive analysis](https://doi.org/10.1109/TEVC.2017.2672668)</b> <br> 
 <b>Yuan Yuan</b>, Yew-Soon Ong, Abhishek Gupta, Hua Xu.
 <i>[IEEE Transactions on Evolutionary Computation](https://cis.ieee.org/publications/t-evolutionary-computation)</i>, 22(2):189-210, 2018.
