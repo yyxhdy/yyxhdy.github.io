@@ -62,6 +62,12 @@ Xiaolong Xu, Yuan Xue, Lianyong Qi, <b>Yuan Yuan</b>, XuyunZhang, Tariq Umer, Sh
 [[PDF]](http://yyxhdy.github.io/files/TASE2015.pdf)
 
 
+<b>[A clustering-ranking method for many-objective optimization](https://doi.org/10.1016/j.asoc.2015.06.020)</b> <br> 
+Lei Cai, Shiru Qu, <b>Yuan Yuan</b>, Xin Yao.
+<i>[Applied Soft Computing](https://www.journals.elsevier.com/applied-soft-computing)</i>, 35:681-694, 2015.
+
+
+
 <b>[An integrated search heuristic for large-scale flexible job shop scheduling problems](https://doi.org/10.1016/j.cor.2013.06.010)</b> <br> 
 <b>Yuan Yuan</b>, Hua Xu.
 <i>[Computers & Operations Research](https://www.journals.elsevier.com/computers-and-operations-research)</i>, 40(12):2864-2877, 2013.
