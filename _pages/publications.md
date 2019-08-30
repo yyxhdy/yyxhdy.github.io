@@ -13,6 +13,7 @@ author_profile: true
 <b>[ARJA: Automated repair of Java programs via multi-objective genetic programming](https://doi.org/10.1109/TSE.2018.2874648)</b> <br> 
 <b>Yuan Yuan</b>, Wolfgang Banzhaf.
 <i>[IEEE Transactions on Software Engineering](https://www.computer.org/csdl/journal/ts)</i>, in press.
+[[PDF]]()
 [[Code]](https://github.com/yyxhdy/arja)
 
 <b>[Objective reduction in many-objective optimization: Evolutionary multiobjective approaches and comprehensive analysis](https://doi.org/10.1109/TEVC.2017.2672668)</b> <br> 
@@ -36,6 +37,7 @@ author_profile: true
 <b>[Multiobjective flexible job shop scheduling using memetic algorithms](https://doi.org/10.1109/TASE.2013.2274517)</b> <br> 
 <b>Yuan Yuan</b>, Hua Xu, Bo Wang, Bo Zhang, Xin Yao.
 <i>[IEEE Transactions on Automation Science and Engineering](https://www.ieee-ras.org/publications/t-ase)</i>, 12(1):336-353, 2015.
+[[PDF]](http://yyxhdy.github.io/files/TASE2015.pdf)
 
 
 <b>[An integrated search heuristic for large-scale flexible job shop scheduling problems](https://doi.org/10.1016/j.cor.2013.06.010)</b> <br> 
