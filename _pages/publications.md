@@ -6,7 +6,7 @@ author_profile: true
 
 ## Refereed Journal Papers
 
-<b>[Towards better evolutionary program repair: An integrated approach](http://)</b> <br> 
+<b>Towards better evolutionary program repair: An integrated approach</b> <br> 
 <b>Yuan Yuan</b>, Wolfgang Banzhaf.
 <i>[ACM Transactions on Software Engineering and Methodology](https://tosem.acm.org)</i>, accepted.
 
