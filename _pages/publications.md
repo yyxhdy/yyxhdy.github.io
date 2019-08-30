@@ -40,6 +40,7 @@ Xiaolong Xu, Yuan Xue, Lianyong Qi, <b>Yuan Yuan</b>, XuyunZhang, Tariq Umer, Sh
 <b>[Objective reduction in many-objective optimization: Evolutionary multiobjective approaches and comprehensive analysis](https://doi.org/10.1109/TEVC.2017.2672668)</b> <br> 
 <b>Yuan Yuan</b>, Yew-Soon Ong, Abhishek Gupta, Hua Xu.
 <i>[IEEE Transactions on Evolutionary Computation](https://cis.ieee.org/publications/t-evolutionary-computation)</i>, 22(2):189-210, 2018.
+[[PDF]](http://yyxhdy.github.io/files/TEVC2018.pdf)
 [[Code]](https://github.com/yyxhdy/MOOR)
 
 <b>[Balancing convergence and diversity in decomposition-based many-objective optimizers](https://doi.org/10.1109/TEVC.2015.2443001)</b> <br> 
