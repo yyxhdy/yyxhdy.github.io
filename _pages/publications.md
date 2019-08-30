@@ -27,7 +27,7 @@ Lianyong Qi, Yi Chen, <b>Yuan Yuan</b>, Shucun Fu, Xuyun Zhang, Xiaolong Xu.
 <i>[World Wide Web](https://link.springer.com/journal/11280)</i>, in press.
 
 
-<b>[Multiobjective computation offloading for workflow management in cloudlet‐based mobile cloud using NSGA‐II](https://doi.org/10.1111/coin.12197)</b> <br> 
+<b>[Multiobjective computation offloading for workflow management in cloudlet‐based mobile cloud using NSGA-II](https://doi.org/10.1111/coin.12197)</b> <br> 
 Xiaolong Xu, Shucun Fu, <b>Yuan Yuan</b>, Yun Luo, Lianyong Qi, Wenmin Lin, Wanchun Dou.
 <i>[Computational Intelligence](https://onlinelibrary.wiley.com/journal/14678640)</i>, in press.
 
