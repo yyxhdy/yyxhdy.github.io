@@ -33,7 +33,7 @@ Xiaolong Xu, Shucun Fu, <b>Yuan Yuan</b>, Yun Luo, Lianyong Qi, Wenmin Lin, Wanc
 
 
 <b>[An edge computing-enabled computation offloading method with privacy preservation for internet of connected vehicles](https://doi.org/10.1016/j.future.2019.01.012)</b> <br> 
-Xiaolong Xu, Yuan Xue, Lianyong Qi, <b>Yuan Yuan</b>, XuyunZhang, Tariq Umer, Shaohua Wan
+Xiaolong Xu, Yuan Xue, Lianyong Qi, <b>Yuan Yuan</b>, XuyunZhang, Tariq Umer, Shaohua Wan.
 <i>[Future Generation Computer Systems](https://www.journals.elsevier.com/future-generation-computer-systems)</i>, 96:89-100, 2019.
 
 
@@ -96,7 +96,7 @@ QAP, LOP, and JSP](https://doi.org/10.1109/TENCON.2016.7848632)</b> <br>
 
 
 <b>[Scale adaptive reproduction operator for decomposition based estimation of distribution algorithm](https://doi.org/10.1109/CEC.2015.7257136)</b> <br> 
-Bo Wang, Hua Xu, <b>Yuan Yuan</b>
+Bo Wang, Hua Xu, <b>Yuan Yuan</b>.
 <i>Proceedings of IEEE Congress on Evolutionary Computation (CEC)</i>, 2015, pp. 2042-2049.
 
 
@@ -109,7 +109,7 @@ Bo Wang, Hua Xu, <b>Yuan Yuan</b>
 <i>Proceedings of the Genetic and Evolutionary Computation Conference (GECCO)</i>, 2014, pp. 669-676.
 
 <b>[An improved NSGA-III procedure for evolutionary many-objective optimization](https://doi.org/10.1145/2576768.2598342)</b> <br> 
-<b>Yuan Yuan</b>, Hua Xu, Bo Wang
+<b>Yuan Yuan</b>, Hua Xu, Bo Wang.
 <i>Proceedings of the Genetic and Evolutionary Computation Conference (GECCO)</i>, 2014, pp. 661-668.
 
 
