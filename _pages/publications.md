@@ -13,18 +13,25 @@ author_profile: true
 <b>[ARJA: Automated repair of Java programs via multi-objective genetic programming](https://doi.org/10.1109/TSE.2018.2874648)</b> <br> 
 <b>Yuan Yuan</b>, Wolfgang Banzhaf.
 <i>[IEEE Transactions on Software Engineering](https://www.computer.org/csdl/journal/ts)</i>, in press, DOI:10.1109/TSE.2018.2874648.
+[[Code]](https://github.com/yyxhdy/arja)
 
 <b>[Objective reduction in many-objective optimization: Evolutionary multiobjective approaches and comprehensive analysis](https://doi.org/10.1109/TEVC.2017.2672668)</b> <br> 
 <b>Yuan Yuan</b>, Yew-Soon Ong, Abhishek Gupta, Hua Xu.
 <i>[IEEE Transactions on Evolutionary Computation](https://cis.ieee.org/publications/t-evolutionary-computation)</i>, 22(2):189-210, 2018.
+[[Code]](https://github.com/yyxhdy/MOOR)
 
 <b>[Balancing convergence and diversity in decomposition-based many-objective optimizers](https://doi.org/10.1109/TEVC.2015.2443001)</b> <br> 
 <b>Yuan Yuan</b>, Hua Xu, Bo Wang, Bo Zhang, Xin Yao.
-<i>[IEEE Transactions on Evolutionary Computation](https://cis.ieee.org/publications/t-evolutionary-computation)</i>, 20(2):180-198, 2016. [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7120115)
+<i>[IEEE Transactions on Evolutionary Computation](https://cis.ieee.org/publications/t-evolutionary-computation)</i>, 20(2):180-198, 2016. 
+[[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7120115)
+[[Code]]()
 
 <b>[A new dominance relation-based evolutionary algorithm for many-objective optimization](https://doi.org/10.1109/TEVC.2015.2420112)</b> <br> 
 <b>Yuan Yuan</b>, Hua Xu, Bo Wang, Xin Yao.
 <i>[IEEE Transactions on Evolutionary Computation](https://cis.ieee.org/publications/t-evolutionary-computation)</i>, 20(1):16-37, 2016.
+[[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7080938)
+[[Code]](https://github.com/yyxhdy/ManyEAs)
+
 
 <b>[Multiobjective flexible job shop scheduling using memetic algorithms](https://doi.org/10.1109/TASE.2013.2274517)</b> <br> 
 <b>Yuan Yuan</b>, Hua Xu, Bo Wang, Bo Zhang, Xin Yao.
