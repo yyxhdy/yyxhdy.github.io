@@ -13,7 +13,7 @@ author_profile: true
 <b>[ARJA: Automated repair of Java programs via multi-objective genetic programming](https://doi.org/10.1109/TSE.2018.2874648)</b> <br> 
 <b>Yuan Yuan</b>, Wolfgang Banzhaf.
 <i>[IEEE Transactions on Software Engineering](https://www.computer.org/csdl/journal/ts)</i>, in press.
-[[PDF]]()
+[[PDF]](http://yyxhdy.github.io/files/TSE2018.pdf)
 [[Code]](https://github.com/yyxhdy/arja)
 
 <b>[Objective reduction in many-objective optimization: Evolutionary multiobjective approaches and comprehensive analysis](https://doi.org/10.1109/TEVC.2017.2672668)</b> <br> 
@@ -25,7 +25,7 @@ author_profile: true
 <b>Yuan Yuan</b>, Hua Xu, Bo Wang, Bo Zhang, Xin Yao.
 <i>[IEEE Transactions on Evolutionary Computation](https://cis.ieee.org/publications/t-evolutionary-computation)</i>, 20(2):180-198, 2016. 
 [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7120115)
-[[Code]]()
+[[Code]](http://yyxhdy.github.io/files/TEVC2016_BCDOptimizers.zip)
 
 <b>[A new dominance relation-based evolutionary algorithm for many-objective optimization](https://doi.org/10.1109/TEVC.2015.2420112)</b> <br> 
 <b>Yuan Yuan</b>, Hua Xu, Bo Wang, Xin Yao.
