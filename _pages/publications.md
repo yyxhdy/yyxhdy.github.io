@@ -14,7 +14,7 @@ author_profile: true
 <b>Yuan Yuan</b>, Wolfgang Banzhaf.
 <i>[IEEE Transactions on Software Engineering](https://www.computer.org/csdl/journal/ts)</i>, in press, DOI:10.1109/TSE.2018.2874648.
 
-<b>[Objective reduction in many-objective optimization: Evolutionary multiobjective approaches and comprehensive analysis](10.1109/TEVC.2017.2672668)</b> <br> 
+<b>[Objective reduction in many-objective optimization: Evolutionary multiobjective approaches and comprehensive analysis](https://doi.org/10.1109/TEVC.2017.2672668)</b> <br> 
 <b>Yuan Yuan</b>, Yew-Soon Ong, Abhishek Gupta, Hua Xu.
 <i>[IEEE Transactions on Evolutionary Computation](https://cis.ieee.org/publications/t-evolutionary-computation)</i>, 22(2):189-210, 2018.
 
@@ -26,7 +26,7 @@ author_profile: true
 <b>Yuan Yuan</b>, Hua Xu, Bo Wang, Xin Yao.
 <i>[IEEE Transactions on Evolutionary Computation](https://cis.ieee.org/publications/t-evolutionary-computation)</i>, 20(1):16-37, 2016.
 
-<b>[Multiobjective flexible job shop scheduling using memetic algorithms](10.1109/https://doi.org/TASE.2013.2274517)</b> <br> 
+<b>[Multiobjective flexible job shop scheduling using memetic algorithms](https://doi.org/10.1109/TASE.2013.2274517)</b> <br> 
 <b>Yuan Yuan</b>, Hua Xu, Bo Wang, Bo Zhang, Xin Yao.
 <i>[IEEE Transactions on Automation Science and Engineering](https://www.ieee-ras.org/publications/t-ase)</i>, 12(1):336-353, 2015.
 
