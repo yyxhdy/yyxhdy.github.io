@@ -12,7 +12,7 @@ author_profile: true
 
 <b>[ARJA: Automated repair of Java programs via multi-objective genetic programming](https://doi.org/10.1109/TSE.2018.2874648)</b> <br> 
 <b>Yuan Yuan</b>, Wolfgang Banzhaf.
-<i>[IEEE Transactions on Software Engineering](https://www.computer.org/csdl/journal/ts)</i>, in press, DOI:10.1109/TSE.2018.2874648.
+<i>[IEEE Transactions on Software Engineering](https://www.computer.org/csdl/journal/ts)</i>, in press.
 [[Code]](https://github.com/yyxhdy/arja)
 
 <b>[Objective reduction in many-objective optimization: Evolutionary multiobjective approaches and comprehensive analysis](https://doi.org/10.1109/TEVC.2017.2672668)</b> <br> 
