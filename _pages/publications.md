@@ -20,7 +20,7 @@ author_profile: true
 
 <b>[Balancing convergence and diversity in decomposition-based many-objective optimizers](https://doi.org/10.1109/TEVC.2015.2443001)</b> <br> 
 <b>Yuan Yuan</b>, Hua Xu, Bo Wang, Bo Zhang, Xin Yao.
-<i>[IEEE Transactions on Evolutionary Computation](https://cis.ieee.org/publications/t-evolutionary-computation)</i>, 20(2):180-198, 2016.
+<i>[IEEE Transactions on Evolutionary Computation](https://cis.ieee.org/publications/t-evolutionary-computation)</i>, 20(2):180-198, 2016. [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7120115)
 
 <b>[A new dominance relation-based evolutionary algorithm for many-objective optimization](https://doi.org/10.1109/TEVC.2015.2420112)</b> <br> 
 <b>Yuan Yuan</b>, Hua Xu, Bo Wang, Xin Yao.
