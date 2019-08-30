@@ -94,6 +94,12 @@ QAP, LOP, and JSP](https://doi.org/10.1109/TENCON.2016.7848632)</b> <br>
 <i>Proceedings of IEEE Region 10 Conference (TENCON)</i>, 2016, pp. 3157-3164.
 
 
+
+<b>[Scale adaptive reproduction operator for decomposition based estimation of distribution algorithm](https://doi.org/10.1109/CEC.2015.7257136)</b> <br> 
+Bo Wang, Hua Xu, <b>Yuan Yuan</b>
+<i>Proceedings of IEEE Congress on Evolutionary Computation (CEC)</i>, 2015, pp. 2042-2049.
+
+
 <b>[An experimental investigation of variation operators in reference-point based many-objective optimization](https://doi.org/10.1145/2739480.2754655)</b> <br> 
 <b>Yuan Yuan</b>, Hua Xu, Bo Wang.
 <i>Proceedings of the Genetic and Evolutionary Computation Conference (GECCO)</i>, 2015, pp. 775-782.
@@ -105,6 +111,9 @@ QAP, LOP, and JSP](https://doi.org/10.1109/TENCON.2016.7848632)</b> <br>
 <b>[An improved NSGA-III procedure for evolutionary many-objective optimization](https://doi.org/10.1145/2576768.2598342)</b> <br> 
 <b>Yuan Yuan</b>, Hua Xu, Bo Wang
 <i>Proceedings of the Genetic and Evolutionary Computation Conference (GECCO)</i>, 2014, pp. 661-668.
+
+
+
 
 
 <b>[A memetic algorithm for the multi-objective flexible job shop scheduling problem](https://doi.org/10.1145/2463372.2463431)</b> <br> 
