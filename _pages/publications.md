@@ -74,7 +74,7 @@ Xiaolong Xu, Yuan Xue, Lianyong Qi, <b>Yuan Yuan</b>, XuyunZhang, Tariq Umer, Sh
 
 <b>[A hybrid harmony search algorithm for the flexible job shop scheduling problem](https://doi.org/10.1016/j.asoc.2013.02.013)</b> <br> 
 <b>Yuan Yuan</b>, Hua Xu, Jiadong Yang.
-<i>[Applied Soft Computing](https://www.journals.elsevier.com/applied-soft-computing)</i>, 13(7):3259--3272, 2013.
+<i>[Applied Soft Computing](https://www.journals.elsevier.com/applied-soft-computing)</i>, 13(7):3259-3272, 2013.
 
 
 
