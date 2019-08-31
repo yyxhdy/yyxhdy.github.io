@@ -11,49 +11,23 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.E., College of Software Engineering, Southeast University, Nanjing, China, 2006/09-2010/07
+* Ph.D., Department of Computer Science and Technology, Tsinghua University, Beijing, China, 2010/09-2015/07
+* Visiting Student, School of Computer Science, University of Birmingham, Birmingham, UK, 2014/01-2015/01
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Postdoctoral Fellow, Department of Computer Science and Engineering, Michigan State University, East Lansing, US, 2016/12-
+* Research Fellow,  Department of Computer Science and Engineering, Nanyang Technological University, Singapore, 2015/10-2016/12
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming
+  * Java
+  * Python
+  * C/C++/C#
+  * Racket
+* Typography 
+  * LATEX
+  * Mircrosoft Office
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
