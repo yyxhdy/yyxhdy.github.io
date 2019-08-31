@@ -119,7 +119,9 @@ Bo Wang, Hua Xu, <b>Yuan Yuan</b>.
 <i>Proceedings of the Genetic and Evolutionary Computation Conference (GECCO)</i>, 2014, pp. 661-668.
 
 
-
+<b>[Quantum-inspired evolutionary algorithm with linkage learning](https://doi.org/10.1109/CEC.2014.6900410)</b> <br> 
+Bo Wang, Hua Xu, <b>Yuan Yuan</b>.
+<i>Proceedings of IEEE Congress on Evolutionary Computation (CEC)</i>, 2014, pp. 2467-2474.
 
 
 <b>[A memetic algorithm for the multi-objective flexible job shop scheduling problem](https://doi.org/10.1145/2463372.2463431)</b> <br> 
