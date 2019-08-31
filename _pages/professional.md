@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Guest Editorship
+## Guest Editorship
 ======
 * Leading Guest Editor, IEEE Transactions on Emerging Topics in Computational Intelligence, 
 Special Issue on Privacy and Security in Computational Intelligence, 2019
