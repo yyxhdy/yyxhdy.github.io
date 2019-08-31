@@ -119,6 +119,11 @@ Bo Wang, Hua Xu, <b>Yuan Yuan</b>.
 <i>Proceedings of the Genetic and Evolutionary Computation Conference (GECCO)</i>, 2014, pp. 661-668.
 
 
+<b>[A two-level hierarchical EDA using conjugate priori](https://doi.org/10.1145/2598394.2598470)</b> <br> 
+Bo Wang, Hua Xu, <b>Yuan Yuan</b>.
+<i>Proceedings of the Companion of Genetic and Evolutionary Computation Conference (GECCO Comp)</i>, 2014, pp. 57-58.
+
+
 <b>[Quantum-inspired evolutionary algorithm with linkage learning](https://doi.org/10.1109/CEC.2014.6900410)</b> <br> 
 Bo Wang, Hua Xu, <b>Yuan Yuan</b>.
 <i>Proceedings of IEEE Congress on Evolutionary Computation (CEC)</i>, 2014, pp. 2467-2474.
