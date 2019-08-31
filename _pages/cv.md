@@ -15,7 +15,7 @@ redirect_from:
 * Ph.D., Department of Computer Science and Technology, Tsinghua University, Beijing, China, 2010/09-2015/07
 * Visiting Student, School of Computer Science, University of Birmingham, Birmingham, UK, 2014/01-2015/01
 
-## Work experience
+## Work Experience
 
 * Postdoctoral Fellow, Department of Computer Science and Engineering, Michigan State University, East Lansing, US, 2016/12-
 * Research Fellow, Department of Computer Science and Engineering, Nanyang Technological University, Singapore, 2015/10-2016/12
