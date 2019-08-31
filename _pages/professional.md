@@ -16,8 +16,8 @@ author_profile: true
 ## Invited Talks
 
 
-* Invited Speaker, Genetic Programming Theory & Practice XVII Workshop, East Lansing, US, 16-19 May, 2019
-* Invited Speaker, The 58th Centre for Research on Evolution, Search and Testing (CREST) Open Workshop,
+* Invited Speaker, <i>Genetic Programming Theory & Practice XVII Workshop</i>, East Lansing, US, 16-19 May, 2019
+* Invited Speaker, <i>The 58th Centre for Research on Evolution, Search and Testing (CREST) Open Workshop</i>,
 London, UK, 25-26 February, 2018
 
 
@@ -37,11 +37,11 @@ London, UK, 25-26 February, 2018
 
 ## Conference Activities
 
-* Session Co-Chair, [Special Session on Memetic Computing](http://cec2019.org/programs/special_sessions.html#cec-01), IEEE Congress on Evolutionary Computation, 2019
-* Competition Co-Chair, [Competition on Evolutionary Multi-task Optimization](http://www.bdsc.site/websites/MTO_competiton_2019/MTO_Competition_CEC_2019.html), IEEE Congress on Evolutionary Computation, 2019.
-* Competition Co-Chair, Competition on Evolutionary Multi-task Optimization, IEEE World Congress on Computational Intelligence, 2018
-* Program Committee Co-Chair, International Workshop on Privacy, Security and Trust in Computational Intelligence, 2018
-* Competition Co-Chair, Competition on Multifactorial Optimization: Evolutionary Single and Multi-Objective Multi-Tasking, IEEE Congress on Evolutionary Computation, 2017
+* Session Co-Chair, [Special Session on Memetic Computing](http://cec2019.org/programs/special_sessions.html#cec-01), <i>IEEE Congress on Evolutionary Computation</i>, 2019
+* Competition Co-Chair, [Competition on Evolutionary Multi-task Optimization](http://www.bdsc.site/websites/MTO_competiton_2019/MTO_Competition_CEC_2019.html), <i>IEEE Congress on Evolutionary Computation</i>, 2019.
+* Competition Co-Chair, Competition on Evolutionary Multi-task Optimization, <i>IEEE World Congress on Computational Intelligence</i>, 2018
+* Program Committee Co-Chair, <i>International Workshop on Privacy, Security and Trust in Computational Intelligence</i>, 2018
+* Competition Co-Chair, Competition on Multifactorial Optimization: Evolutionary Single and Multi-Objective Multi-Tasking, <i>IEEE Congress on Evolutionary Computation</i>, 2017
 
 
 ## Reviewer for Journals 

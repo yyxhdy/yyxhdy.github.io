@@ -150,3 +150,16 @@ Bo Wang, Hua Xu, <b>Yuan Yuan</b>.
 <b>Yuan Yuan</b>, Hua Xu.
 <i>Proceedings of IEEE Congress on Evolutionary Computation (CEC)</i>, 2012, pp. 1-8.
 
+
+## Book Chapters 
+
+<b>[On the emerging notion of evolutionary multitasking: A computational analog of cognitive multitasking](https://doi.org/10.1007/978-3-319-42978-6_5)</b> <br>
+Abhishek Gupta, Bingshui Da, <b>Yuan Yuan</b>, Yew-Soon Ong.
+<i>Recent Advances in Evolutionary Multi-objective Optimization</i>, pp. 139–157, 2017.
+
+
+## Technical Reports
+
+<b>[Evolutionary multitasking for multiobjective continuous optimization: Benchmark problems, performance metrics and baseline results](https://arxiv.org/abs/1706.02766)</b> <br>
+Yuan, Yuan, Yew-Soon Ong, Liang Feng, A. Kai Qin, Abhishek Gupta, Bingshui Da, Qingfu Zhang, Kay Chen Tan, Yaochu Jin, and Hisao Ishibuchi.
+<i>arXiv:1706.02766</>, pp. 1-11.
