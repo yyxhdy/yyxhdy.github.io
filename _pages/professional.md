@@ -15,7 +15,10 @@ author_profile: true
 
 ## Invited Talks
 
-* ``Progress in Structural Evolution for Bug Repair in JAVA''，The 58th Centre for Research on Evolution, Search and Testing (CREST) Open Workshop.
+
+* Invited Speaker, Genetic Programming Theory & Practice XVII Workshop, East Lansing, US, 16-19 May, 2019.
+* Invited Speaker, The 58th Centre for Research on Evolution, Search and Testing (CREST) Open Workshop, 
+London, UK, 25-26 February, 2018.
 
 
 ## Guest Editorship
