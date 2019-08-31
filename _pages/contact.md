@@ -4,7 +4,7 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-Computer Science Department, Stanford University<br>
-Gates 158, 353 Serra Mall, Stanford, CA 94305<br>
-Email: lantaoyu [at] cs.stanford.edu
+Department of Computer Science and Engineering, Michigan State University<br>
+428 S. Shaw Lane, Room 3210 East Lansing, MI 48824<br>
+Email: yyuan [at] msu.edu
 
