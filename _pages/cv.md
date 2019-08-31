@@ -20,7 +20,7 @@ redirect_from:
 * Postdoctoral Fellow, Department of Computer Science and Engineering, Michigan State University, East Lansing, US, 2016/12-
 * Research Fellow, Department of Computer Science and Engineering, Nanyang Technological University, Singapore, 2015/10-2016/12
   
-## Skills
+## Computer Skills
 
 * Programming
   * Java
