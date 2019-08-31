@@ -4,13 +4,18 @@ main:
     url: /publications/
 
   - title: "Professional Activities"
-    url: /professional/  
+    url: /professional/ 
+    
+  - title: "Awards/Honors"
+    url: /awards/   
     
   - title: "CV"
     url: /cv/
 
   - title: "Contact"
     url: /contact/  
+    
+
     
 
  
