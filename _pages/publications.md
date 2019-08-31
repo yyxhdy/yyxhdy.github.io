@@ -125,7 +125,7 @@ Bo Wang, Hua Xu, <b>Yuan Yuan</b>.
 
 <b>[An improved NSGA-III procedure for evolutionary many-objective optimization](https://doi.org/10.1145/2576768.2598342)</b> <br> 
 <b>Yuan Yuan</b>, Hua Xu, Bo Wang.
-<i>Proceedings of the Genetic and Evolutionary Computation Conference (GECCO)</i>, 2014, pp. 661-668. (<r>Nominated for a best paper award</r>)
+<i>Proceedings of the Genetic and Evolutionary Computation Conference (GECCO)</i>, 2014, pp. 661-668. <span style="color:red">(Nominated for a best paper award)</span>
 
 
 <b>[A two-level hierarchical EDA using conjugate priori](https://doi.org/10.1145/2598394.2598470)</b> <br> 
