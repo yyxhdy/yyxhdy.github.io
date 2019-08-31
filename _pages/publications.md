@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Refereed Journal Papers
+## Refereed Journal Articles
 
 <b>Towards better evolutionary program repair: An integrated approach</b> <br> 
 <b>Yuan Yuan</b>, Wolfgang Banzhaf.
