@@ -97,8 +97,12 @@ Lei Cai, Shiru Qu, <b>Yuan Yuan</b>, Xin Yao.
 
 
 <b>[A heuristic virtual machine scheduling method for load balancing in fog-cloud computing](https://doi.org/10.1109/BDS/HPSC/IDS18.2018.00030)</b> <br> 
-Xiaolong Xu, Qingxiang Liu, Lianyong Qi, Yuan Yuan, Wanchun Dou, Alex X. Liu.
+Xiaolong Xu, Qingxiang Liu, Lianyong Qi, <b>Yuan Yuan</b>, Wanchun Dou, Alex X. Liu.
 <i>Proceedings of IEEE International Conference on Big Data Security on Cloud (BigDataSecurity)</i>, 2018, pp. 83-88.
+
+<b>[Energy-Efficient computation offloading in coudlet-based mobile cloud using NSGA-II](https://doi.org/10.23919/ICMU.2018.8653606)</b> <br> 
+Xiaolong Xu, Shucun Fu, <b>Yuan Yuan</b>, Lianyong Qi, Wanchun Dou.
+<i>Proceedings of International Conference on Mobile Computing and Ubiquitous Network (ICMU)</i>, 2018.
 
 
 <b>[Evolutionary multitasking in permutation-based combinatorial optimization problems: Realization with TSP, 
