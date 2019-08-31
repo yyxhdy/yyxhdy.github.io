@@ -21,7 +21,7 @@ author_profile: true
 London, UK, 25-26 February, 2018
 
 
-## Guest Editorship
+## Journal Editorship
 
 * Lead Guest Editor, <i>IEEE Transactions on Emerging Topics in Computational Intelligence</i>, 
 [Special Issue on Privacy and Security in Computational Intelligence](https://cis.ieee.org/images/files/Publications/TETCI/SI14_CFP_PSCI.pdf), 2019
@@ -35,7 +35,7 @@ London, UK, 25-26 February, 2018
 [Special Issue on Intrusion Detection and Prevention in Cloud, Fog, and Internet of Things](https://www.hindawi.com/journals/scn/si/215106/cfp/), 2018
 
 
-## Conference Chairpersonship
+## Conference Activities
 
 * Session Co-Chair, [Special Session on Memetic Computing](http://cec2019.org/programs/special_sessions.html#cec-01), IEEE Congress on Evolutionary Computation, 2019
 * Competition Co-Chair, [Competition on Evolutionary Multi-task Optimization](http://www.bdsc.site/websites/MTO_competiton_2019/MTO_Competition_CEC_2019.html), IEEE Congress on Evolutionary Computation, 2019.
