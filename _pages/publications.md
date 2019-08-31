@@ -162,4 +162,4 @@ Abhishek Gupta, Bingshui Da, <b>Yuan Yuan</b>, Yew-Soon Ong.
 
 <b>[Evolutionary multitasking for multiobjective continuous optimization: Benchmark problems, performance metrics and baseline results](https://arxiv.org/abs/1706.02766)</b> <br>
 Yuan, Yuan, Yew-Soon Ong, Liang Feng, A. Kai Qin, Abhishek Gupta, Bingshui Da, Qingfu Zhang, Kay Chen Tan, Yaochu Jin, and Hisao Ishibuchi.
-<i>arXiv:1706.02766</>, pp. 1-11.
+<i>arXiv:1706.02766</i>, pp. 1-11.
