@@ -6,8 +6,10 @@ author_profile: true
 ---
 
 * **First Prize for the China Federation of Logistics and Purchasing Technology Innovation Award**, 2015
-* **Outstanding Graduate, Beijing City**, 2015
-* **Outstanding Graduate, Department of Computer Science and Technology, Tsinghua University**, 2015
+* **Outstanding Graduate**, Beijing City, 2015
+* **Outstanding Graduate**, Department of Computer Science and Technology, Tsinghua University, 2015
+* **Best Paper Award Nomination**, GECCO 2015
+* **Best Paper Award Nomination**, GECCO 2014
 * **Microsoft Fellowship Nomination Award**, 2013
 * **National Scholarship for PhD Students**, 2013
 * **People’s Daily Online 3rd Class Scholarship**, 2012
