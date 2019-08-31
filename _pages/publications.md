@@ -88,8 +88,6 @@ Lei Cai, Shiru Qu, <b>Yuan Yuan</b>, Xin Yao.
 
 ## Conference Papers
 
-
-
 <b>[A hybrid evolutionary system for automatic software repair](https://doi.org/10.1145/3321707.3321830)</b> <br> 
 <b>Yuan Yuan</b>, Wolfgang Banzhaf.
 <i>Proceedings of the Genetic and Evolutionary Computation Conference (GECCO)</i>, 2019, pp. 1417-1425.
@@ -100,9 +98,9 @@ Lei Cai, Shiru Qu, <b>Yuan Yuan</b>, Xin Yao.
 Xiaolong Xu, Qingxiang Liu, Lianyong Qi, <b>Yuan Yuan</b>, Wanchun Dou, Alex X. Liu.
 <i>Proceedings of IEEE International Conference on Big Data Security on Cloud (BigDataSecurity)</i>, 2018, pp. 83-88.
 
-<b>[Energy-Efficient computation offloading in coudlet-based mobile cloud using NSGA-II](https://doi.org/10.23919/ICMU.2018.8653606)</b> <br> 
+<b>[Energy-efficient computation offloading in cloudlet-based mobile cloud using NSGA-II](https://doi.org/10.23919/ICMU.2018.8653606)</b> <br> 
 Xiaolong Xu, Shucun Fu, <b>Yuan Yuan</b>, Lianyong Qi, Wanchun Dou.
-<i>Proceedings of International Conference on Mobile Computing and Ubiquitous Network (ICMU)</i>, 2018.
+<i>Proceedings of International Conference on Mobile Computing and Ubiquitous Network (ICMU)</i>, 2018, pp. 1-6.
 
 
 <b>[Evolutionary multitasking in permutation-based combinatorial optimization problems: Realization with TSP, 
