@@ -9,7 +9,7 @@ author_profile: true
 
 ## Guest Editorship
 
-* Leading Guest Editor, <i>IEEE Transactions on Emerging Topics in Computational Intelligence</i>, 
+* Lead Guest Editor, <i>IEEE Transactions on Emerging Topics in Computational Intelligence</i>, 
 [Special Issue on Privacy and Security in Computational Intelligence](https://cis.ieee.org/images/files/Publications/TETCI/SI14_CFP_PSCI.pdf), 2019
 * Guest Co-Editor, <i>Complexity</i>, 
 [Special Issue on Collaborative Big Data Management and Analytics in Complex Systems with Edge](https://www.hindawi.com/journals/complexity/si/149145/cfp/), 2019
