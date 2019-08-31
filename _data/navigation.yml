@@ -3,12 +3,14 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Contact"
-    url: /contact/  
-    
   - title: "Professional Activities"
     url: /professional/  
     
+
+  - title: "Contact"
+    url: /contact/  
+    
+
  
 #  - title: "Talks"
 #    url: /talks/    
