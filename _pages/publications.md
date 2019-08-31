@@ -94,6 +94,13 @@ Lei Cai, Shiru Qu, <b>Yuan Yuan</b>, Xin Yao.
 <b>Yuan Yuan</b>, Wolfgang Banzhaf.
 <i>Proceedings of the Genetic and Evolutionary Computation Conference (GECCO)</i>, 2019, pp. 1417-1425.
 
+
+
+<b>[A heuristic virtual machine scheduling method for load balancing in fog-cloud computing](https://doi.org/10.1109/BDS/HPSC/IDS18.2018.00030)</b> <br> 
+Xiaolong Xu, Qingxiang Liu, Lianyong Qi, Yuan Yuan, Wanchun Dou, Alex X. Liu.
+<i>Proceedings of IEEE International Conference on Big Data Security on Cloud (BigDataSecurity)</i>, 2018, pp. 83-88.
+
+
 <b>[Evolutionary multitasking in permutation-based combinatorial optimization problems: Realization with TSP, 
 QAP, LOP, and JSP](https://doi.org/10.1109/TENCON.2016.7848632)</b> <br> 
 <b>Yuan Yuan</b>, Yew-Soon Ong, Abhishek Gupta, Puay Siew Tan, Hua Xu.
