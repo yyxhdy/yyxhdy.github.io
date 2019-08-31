@@ -118,6 +118,7 @@ Bo Wang, Hua Xu, <b>Yuan Yuan</b>.
 <b>[An experimental investigation of variation operators in reference-point based many-objective optimization](https://doi.org/10.1145/2739480.2754655)</b> <br> 
 <b>Yuan Yuan</b>, Hua Xu, Bo Wang.
 <i>Proceedings of the Genetic and Evolutionary Computation Conference (GECCO)</i>, 2015, pp. 775-782.
+ <span style="color:red">(Nominated for a best paper award)</span>
 
 <b>[Evolutionary many-objective optimization using ensemble fitness ranking](https://doi.org/10.1145/2576768.2598345)</b> <br> 
 <b>Yuan Yuan</b>, Hua Xu, Bo Wang.
