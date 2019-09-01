@@ -19,6 +19,7 @@ at Nanyang Technological University, Singapore, from October 2015 to December 20
 My research interests lie at the intersection of computational intelligence, 
 software engineering, and operations research. Currently I am interested in the following topics:
 * Automatic program repair/synthesis
+* Genetic improvement
 * Evolutionary multi/many-objective optimizatoin 
 * Evolutionary multi-task optimization
 * Bayesian optimization 
