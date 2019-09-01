@@ -17,7 +17,7 @@ redirect_from:
 
 ## Work Experience
 
-* **Postdoctoral Fellow**, Department of Computer Science and Engineering, Michigan State University, East Lansing, US, 2016/12-
+* **Postdoctoral Fellow**, Department of Computer Science and Engineering, Michigan State University, East Lansing, USA, 2016/12-
 * **Research Fellow**, Department of Computer Science and Engineering, Nanyang Technological University, Singapore, 2015/10-2016/12
   
 ## Computer Skills
