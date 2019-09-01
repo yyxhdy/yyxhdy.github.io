@@ -29,6 +29,17 @@ software engineering, and operations research. Currently I am interested in the 
 
 # News
 
+* August 22, 2019. One paper was accepted to ACM TOSEM.
+* July 24, 2019. I will serve as the Guest Co-Editor for a special issue at Complexity.
+* May 23, 2019. I attended ICSE 2019 held at Montreal, QC, Canada
+* May 17, 2019. I gave a talk at Genetic Programming Theory & Practice XVII Workshop. 
+* March 20, 2019. One full paper was accepted to GECCO 2019. 
+* December 14, 2018. I will serve as the Guest Co-Editor for two special issues at EURASIP Journal on WCN.
+* October 1, 2018. One paper was accepted to IEEE TSE.
+* September 16, 2018. We wil organize Competition on Evolutionary Multi-task Optimization at CEC 2019.
+* August 30, 2018. I will serve as the Lead Guest Editor for a special issue at IEEE TETCI.
+* July 30, 2018. We wil organize Special Session on Memetic Computing at CEC 2019.
+
 
 # Selected Publications ([Full List](https://yyxhdy.github.io/publications/))
 
