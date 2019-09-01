@@ -16,7 +16,7 @@ author_profile: true
 ## Invited Talks
 
 
-* Invited Speaker, <i>Genetic Programming Theory & Practice XVII Workshop</i>, East Lansing, US, 16-19 May, 2019
+* Invited Speaker, <i>Genetic Programming Theory & Practice XVII Workshop</i>, East Lansing, USA, 16-19 May, 2019
 * Invited Speaker, <i>The 58th Centre for Research on Evolution, Search and Testing (CREST) Open Workshop</i>,
 London, UK, 25-26 February, 2018
 
