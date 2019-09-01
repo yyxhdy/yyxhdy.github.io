@@ -90,73 +90,73 @@ Lei Cai, Shiru Qu, <b>Yuan Yuan</b>, Xin Yao.
 
 <b>[A hybrid evolutionary system for automatic software repair](https://doi.org/10.1145/3321707.3321830)</b> <br> 
 <b>Yuan Yuan</b>, Wolfgang Banzhaf.
-<i>Proceedings of the Genetic and Evolutionary Computation Conference (GECCO)</i>, 2019, pp. 1417-1425.
+<i>Proceedings of the Genetic and Evolutionary Computation Conference (GECCO)</i>, Prague, Czech Republic, 2019, pp. 1417-1425.
 
 
 <b>[Balancing exploration and exploitation in multiobjective batch bayesian optimization](https://doi.org/10.1145/3319619.3321962)</b> <br> 
 Hongyan Wang, Hua Xu, <b>Yuan Yuan</b>, Xiaomin Sun, Junhui Deng.
-<i>Proceedings of the Genetic and Evolutionary Computation Conference Companion (GECCO Comp)</i>, 2019, pp. 237-238.
+<i>Proceedings of the Genetic and Evolutionary Computation Conference Companion (GECCO Comp)</i>, Prague, Czech Republic, 2019, pp. 237-238.
 
 <b>[Noisy multiobjective black-box optimization using bayesian optimization](https://doi.org/10.1145/3319619.3321898)</b> <br> 
 Hongyan Wang, Hua Xu, <b>Yuan Yuan</b>, Xiaomin Sun, Junhui Deng.
-<i>Proceedings of the Genetic and Evolutionary Computation Conference Companion (GECCO Comp)</i>, 2019, pp. 239-240.
+<i>Proceedings of the Genetic and Evolutionary Computation Conference Companion (GECCO Comp)</i>, Prague, Czech Republic, 2019, pp. 239-240.
 
 
 <b>[A heuristic virtual machine scheduling method for load balancing in fog-cloud computing](https://doi.org/10.1109/BDS/HPSC/IDS18.2018.00030)</b> <br> 
 Xiaolong Xu, Qingxiang Liu, Lianyong Qi, <b>Yuan Yuan</b>, Wanchun Dou, Alex X. Liu.
-<i>Proceedings of IEEE International Conference on Big Data Security on Cloud (BigDataSecurity)</i>, 2018, pp. 83-88.
+<i>Proceedings of IEEE International Conference on Big Data Security on Cloud (BigDataSecurity)</i>, Omaha, USA, 2018, pp. 83-88.
 
 <b>[Energy-efficient computation offloading in cloudlet-based mobile cloud using NSGA-II](https://doi.org/10.23919/ICMU.2018.8653606)</b> <br> 
 Xiaolong Xu, Shucun Fu, <b>Yuan Yuan</b>, Lianyong Qi, Wanchun Dou.
-<i>Proceedings of International Conference on Mobile Computing and Ubiquitous Network (ICMU)</i>, 2018, pp. 1-6.
+<i>Proceedings of International Conference on Mobile Computing and Ubiquitous Network (ICMU)</i>, Auckland, New Zealand, 2018, pp. 1-6.
 
 
 <b>[Evolutionary multitasking in permutation-based combinatorial optimization problems: Realization with TSP, 
 QAP, LOP, and JSP](https://doi.org/10.1109/TENCON.2016.7848632)</b> <br> 
 <b>Yuan Yuan</b>, Yew-Soon Ong, Abhishek Gupta, Puay Siew Tan, Hua Xu.
-<i>Proceedings of IEEE Region 10 Conference (TENCON)</i>, 2016, pp. 3157-3164.
+<i>Proceedings of IEEE Region 10 Conference (TENCON)</i>, Singapore, 2016, pp. 3157-3164.
 
 
 
 <b>[Scale adaptive reproduction operator for decomposition based estimation of distribution algorithm](https://doi.org/10.1109/CEC.2015.7257136)</b> <br> 
 Bo Wang, Hua Xu, <b>Yuan Yuan</b>.
-<i>Proceedings of IEEE Congress on Evolutionary Computation (CEC)</i>, 2015, pp. 2042-2049.
+<i>Proceedings of IEEE Congress on Evolutionary Computation (CEC)</i>, Sendai, Japan, 2015, pp. 2042-2049.
 
 
 <b>[An experimental investigation of variation operators in reference-point based many-objective optimization](https://doi.org/10.1145/2739480.2754655)</b> <br> 
 <b>Yuan Yuan</b>, Hua Xu, Bo Wang.
-<i>Proceedings of the Genetic and Evolutionary Computation Conference (GECCO)</i>, 2015, pp. 775-782.
+<i>Proceedings of the Genetic and Evolutionary Computation Conference (GECCO)</i>, Madrid, Spain, 2015, pp. 775-782.
 (<span style="color:red">Nominated for a best paper award</span>)
 
 <b>[Evolutionary many-objective optimization using ensemble fitness ranking](https://doi.org/10.1145/2576768.2598345)</b> <br> 
 <b>Yuan Yuan</b>, Hua Xu, Bo Wang.
-<i>Proceedings of the Genetic and Evolutionary Computation Conference (GECCO)</i>, 2014, pp. 669-676.
+<i>Proceedings of the Genetic and Evolutionary Computation Conference (GECCO)</i>, 2014, Vancouver, BC, Canada, pp. 669-676.
 
 <b>[An improved NSGA-III procedure for evolutionary many-objective optimization](https://doi.org/10.1145/2576768.2598342)</b> <br> 
 <b>Yuan Yuan</b>, Hua Xu, Bo Wang.
-<i>Proceedings of the Genetic and Evolutionary Computation Conference (GECCO)</i>, 2014, pp. 661-668. 
+<i>Proceedings of the Genetic and Evolutionary Computation Conference (GECCO)</i>, 2014, Vancouver, BC, Canada, pp. 661-668. 
 (<span style="color:red">Nominated for a best paper award</span>)
 
 
 <b>[A two-level hierarchical EDA using conjugate priori](https://doi.org/10.1145/2598394.2598470)</b> <br> 
 Bo Wang, Hua Xu, <b>Yuan Yuan</b>.
-<i>Proceedings of the Genetic and Evolutionary Computation Conference Companion (GECCO Comp)</i>, 2014, pp. 57-58.
+<i>Proceedings of the Genetic and Evolutionary Computation Conference Companion (GECCO Comp)</i>, Vancouver, BC, Canada, 2014, pp. 57-58.
 
 
 <b>[Quantum-inspired evolutionary algorithm with linkage learning](https://doi.org/10.1109/CEC.2014.6900410)</b> <br> 
 Bo Wang, Hua Xu, <b>Yuan Yuan</b>.
-<i>Proceedings of IEEE Congress on Evolutionary Computation (CEC)</i>, 2014, pp. 2467-2474.
+<i>Proceedings of IEEE Congress on Evolutionary Computation (CEC)</i>, Beijing, China, 2014, pp. 2467-2474.
 
 
 <b>[A memetic algorithm for the multi-objective flexible job shop scheduling problem](https://doi.org/10.1145/2463372.2463431)</b> <br> 
 <b>Yuan Yuan</b>, Hua Xu.
-<i>Proceedings of the Genetic and Evolutionary Computation Conference (GECCO)</i>, 2013, pp. 559-566.
+<i>Proceedings of the Genetic and Evolutionary Computation Conference (GECCO)</i>, Amsterdam, The Netherlands, 2013, pp. 559-566.
 
 
 
 <b>[HHS/LNS: An integrated search method for flexible job shop scheduling](https://doi.org/10.1109/CEC.2012.6256609)</b> <br> 
 <b>Yuan Yuan</b>, Hua Xu.
-<i>Proceedings of IEEE Congress on Evolutionary Computation (CEC)</i>, 2012, pp. 1-8.
+<i>Proceedings of IEEE Congress on Evolutionary Computation (CEC)</i>, Brisbane, Australia, 2012, pp. 1-8.
 
 
 ## Book Chapters 
