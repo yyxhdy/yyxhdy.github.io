@@ -64,7 +64,7 @@ software engineering, and operations research. Currently I am interested in the 
 [[Code]](http://yyxhdy.github.io/files/TEVC2016_BCDOptimizers.zip)
 
 <b>[A new dominance relation-based evolutionary algorithm for many-objective optimization](https://doi.org/10.1109/TEVC.2015.2420112)</b> <br> 
-<b>Yuan Yuan</b>, Hua Xu, Bo Wang, Xin Yao.
+<b>Yuan Yuan</b>, Hua Xu.
 <i>[IEEE Transactions on Evolutionary Computation](https://cis.ieee.org/publications/t-evolutionary-computation)</i>, 20(1):16-37, 2016.
 [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7080938)
 [[Code]](https://github.com/yyxhdy/ManyEAs)

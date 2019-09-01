@@ -57,7 +57,7 @@ Xiaolong Xu, Yuan Xue, Lianyong Qi, <b>Yuan Yuan</b>, XuyunZhang, Tariq Umer, Sh
 
 
 <b>[Multiobjective flexible job shop scheduling using memetic algorithms](https://doi.org/10.1109/TASE.2013.2274517)</b> <br> 
-<b>Yuan Yuan</b>, Hua Xu, Bo Wang, Bo Zhang, Xin Yao.
+<b>Yuan Yuan</b>, Hua Xu.
 <i>[IEEE Transactions on Automation Science and Engineering](https://www.ieee-ras.org/publications/t-ase)</i>, 12(1):336-353, 2015.
 [[PDF]](http://yyxhdy.github.io/files/TASE2015.pdf)
 
