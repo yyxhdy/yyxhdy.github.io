@@ -16,8 +16,13 @@ from Tsinghua University, China, in July 2015. From January 2014 to January 2015
 I was a visiting Ph.D. student (Advisor: [Prof. Xin Yao](http://www.cs.bham.ac.uk/~xin/))
 at University of Birmingham, UK. I was a Research Fellow (worked with [Prof. Yew-Soon Ong](https://www.ntu.edu.sg/home/asysong/)) 
 at Nanyang Technological University, Singapore, from October 2015 to December 2016. 
-My current research interests lie at the intersection of computational intelligence, 
-software engineering, and operations research. 
+My research interests lie at the intersection of computational intelligence, 
+software engineering, and operations research. Currently I am interested in the following topics:
+* Automatic program repair/synthesis
+* Evolutionary multi/many-objective optimizatoin 
+* Evolutionary multi-task optimization
+* Bayesian optimization 
+* Intelligent scheduling in job-shop environments
 
 
 
