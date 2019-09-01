@@ -93,6 +93,14 @@ Lei Cai, Shiru Qu, <b>Yuan Yuan</b>, Xin Yao.
 <i>Proceedings of the Genetic and Evolutionary Computation Conference (GECCO)</i>, 2019, pp. 1417-1425.
 
 
+<b>[Balancing exploration and exploitation in multiobjective batch bayesian optimization](https://doi.org/10.1145/3319619.3321962)</b> <br> 
+Hongyan Wang, Hua Xu, <b>Yuan Yuan</b>, Xiaomin Sun, Junhui Deng.
+<i>Proceedings of the Genetic and Evolutionary Computation Conference Companion (GECCO Comp)</i>, 2019, pp. 237-238.
+
+<b>[Noisy multiobjective black-box optimization using bayesian optimization](https://doi.org/10.1145/3319619.3321898)</b> <br> 
+Hongyan Wang, Hua Xu, <b>Yuan Yuan</b>, Xiaomin Sun, Junhui Deng.
+<i>Proceedings of the Genetic and Evolutionary Computation Conference Companion (GECCO Comp)</i>, 2019, pp. 239-240.
+
 
 <b>[A heuristic virtual machine scheduling method for load balancing in fog-cloud computing](https://doi.org/10.1109/BDS/HPSC/IDS18.2018.00030)</b> <br> 
 Xiaolong Xu, Qingxiang Liu, Lianyong Qi, <b>Yuan Yuan</b>, Wanchun Dou, Alex X. Liu.
@@ -132,7 +140,7 @@ Bo Wang, Hua Xu, <b>Yuan Yuan</b>.
 
 <b>[A two-level hierarchical EDA using conjugate priori](https://doi.org/10.1145/2598394.2598470)</b> <br> 
 Bo Wang, Hua Xu, <b>Yuan Yuan</b>.
-<i>Proceedings of the Companion of Genetic and Evolutionary Computation Conference (GECCO Comp)</i>, 2014, pp. 57-58.
+<i>Proceedings of the Genetic and Evolutionary Computation Conference Companion (GECCO Comp)</i>, 2014, pp. 57-58.
 
 
 <b>[Quantum-inspired evolutionary algorithm with linkage learning](https://doi.org/10.1109/CEC.2014.6900410)</b> <br> 
