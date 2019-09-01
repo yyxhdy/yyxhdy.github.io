@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Postdoctoral Fellow (work with [Prof. Wolfgang Banzhaf](http://www.cse.msu.edu/~banzhafw/))
+I am a Postdoctoral Fellow (work with [Prof. Wolfgang Banzhaf](http://www.cse.msu.edu/~banzhafw/))
 at Michigan State University, USA. 
 I received the Ph.D. degree 
 (Advisor: [Prof. Bo Zhang](https://www.tsinghua.edu.cn/publish/csen/4623/2010/20101226104412516277601/20101226104412516277601_.html)) 
@@ -21,4 +21,4 @@ software engineering, and operations research.
 
 
 
-# Recent News
+# News
