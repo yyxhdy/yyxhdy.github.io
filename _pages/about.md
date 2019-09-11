@@ -31,7 +31,7 @@ software engineering, and operations research. Currently I am interested in the 
 
 * August 22, 2019. One paper was accepted to ACM TOSEM.
 * July 24, 2019. I will serve as the Guest Co-Editor for a special issue at Complexity.
-* May 23, 2019. I attended ICSE 2019 held at Montreal, QC, Canada
+* May 23, 2019. I attended ICSE 2019 held at Montreal, QC, Canada.
 * May 17, 2019. I gave a talk at Genetic Programming Theory & Practice XVII Workshop. 
 * March 20, 2019. One full paper was accepted to GECCO 2019. 
 * December 14, 2018. I will serve as the Guest Co-Editor for two special issues at EURASIP Journal on WCN.

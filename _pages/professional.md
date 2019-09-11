@@ -62,6 +62,7 @@ London, UK, 25-26 February, 2018
 * Cluster Computing
 * Empirical Software Engineering
 * Journal of Scheduling
+* Journal of Real-Time Image Processing
 * Journal of Computer Science and Technology
 * International Journal of Production Research
 * Engineering Optimization
