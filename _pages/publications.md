@@ -17,6 +17,11 @@ author_profile: true
 [[Code]](https://github.com/yyxhdy/arja)
 
 
+<b>[Frequent pattern mining assisted energy consumption evolutionary optimization approach based on surrogate model at GCC compile time](https://doi.org/10.1016/j.swevo.2019.100574)</b> <br> 
+Ni Youcong, Xin Du, Peng Ye, Ruliang Xiao, <b>Yuan Yuan</b>, Wangbiao Lie.
+<i>[Swarm and Evolutionary Computation](https://www.journals.elsevier.com/swarm-and-evolutionary-computation)</i>, in press.
+
+
 <b>[Blockchain-based cloudlet management for multimedia workflow in mobile cloud computing](https://doi.org/10.1007/s11042-019-07900-x)</b> <br> 
 Xiaolong Xu, Yi Chen, <b>Yuan Yuan</b>, Tao Huang, Xuyun Zhang, Lianyong Qi.
 <i>[Multimedia Tools and Applications](https://link.springer.com/journal/11042)</i>, in press.
