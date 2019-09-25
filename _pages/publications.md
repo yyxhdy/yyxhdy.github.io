@@ -38,7 +38,7 @@ Xiaolong Xu, Shucun Fu, <b>Yuan Yuan</b>, Yun Luo, Lianyong Qi, Wenmin Lin, Wanc
 
 
 <b>[An edge computing-enabled computation offloading method with privacy preservation for internet of connected vehicles](https://doi.org/10.1016/j.future.2019.01.012)</b> <br> 
-Xiaolong Xu, Yuan Xue, Lianyong Qi, <b>Yuan Yuan</b>, XuyunZhang, Tariq Umer, Shaohua Wan.
+Xiaolong Xu, Yuan Xue, Lianyong Qi, <b>Yuan Yuan</b>, Xuyun Zhang, Tariq Umer, Shaohua Wan.
 <i>[Future Generation Computer Systems](https://www.journals.elsevier.com/future-generation-computer-systems)</i>, 96:89-100, 2019.
 
 
