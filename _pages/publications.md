@@ -9,6 +9,8 @@ author_profile: true
 <b>Towards better evolutionary program repair: An integrated approach</b> <br> 
 <b>Yuan Yuan</b>, Wolfgang Banzhaf.
 <i>[ACM Transactions on Software Engineering and Methodology](https://tosem.acm.org)</i>, accepted.
+[[PDF]](http://yyxhdy.github.io/files/TOSEM2019.pdf)
+[[Code]](https://github.com/yyxhdy/arja/tree/arja-e)
 
 <b>[ARJA: Automated repair of Java programs via multi-objective genetic programming](https://doi.org/10.1109/TSE.2018.2874648)</b> <br> 
 <b>Yuan Yuan</b>, Wolfgang Banzhaf.
@@ -16,10 +18,6 @@ author_profile: true
 [[PDF]](http://yyxhdy.github.io/files/TSE2018.pdf)
 [[Code]](https://github.com/yyxhdy/arja)
 
-
-<b>[Frequent pattern mining assisted energy consumption evolutionary optimization approach based on surrogate model at GCC compile time](https://doi.org/10.1016/j.swevo.2019.100574)</b> <br> 
-Ni Youcong, Xin Du, Peng Ye, Ruliang Xiao, <b>Yuan Yuan</b>, Wangbiao Lie.
-<i>[Swarm and Evolutionary Computation](https://www.journals.elsevier.com/swarm-and-evolutionary-computation)</i>, in press.
 
 
 <b>[Blockchain-based cloudlet management for multimedia workflow in mobile cloud computing](https://doi.org/10.1007/s11042-019-07900-x)</b> <br> 
@@ -35,6 +33,11 @@ Lianyong Qi, Yi Chen, <b>Yuan Yuan</b>, Shucun Fu, Xuyun Zhang, Xiaolong Xu.
 <b>[Multiobjective computation offloading for workflow management in cloudlet‐based mobile cloud using NSGA-II](https://doi.org/10.1111/coin.12197)</b> <br> 
 Xiaolong Xu, Shucun Fu, <b>Yuan Yuan</b>, Yun Luo, Lianyong Qi, Wenmin Lin, Wanchun Dou.
 <i>[Computational Intelligence](https://onlinelibrary.wiley.com/journal/14678640)</i>, in press.
+
+
+<b>[Frequent pattern mining assisted energy consumption evolutionary optimization approach based on surrogate model at GCC compile time](https://doi.org/10.1016/j.swevo.2019.100574)</b> <br> 
+Ni Youcong, Xin Du, Peng Ye, Ruliang Xiao, <b>Yuan Yuan</b>, Wangbiao Lie.
+<i>[Swarm and Evolutionary Computation](https://www.journals.elsevier.com/swarm-and-evolutionary-computation)</i>, 50, 2019, 100574.
 
 
 <b>[An edge computing-enabled computation offloading method with privacy preservation for internet of connected vehicles](https://doi.org/10.1016/j.future.2019.01.012)</b> <br> 

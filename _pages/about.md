@@ -30,9 +30,9 @@ software engineering, and operations research. Currently I am interested in the 
 # News
 
 
-* January 13, 2020, I will serve as the PC member for [IJCAI-PRICAI 2020](https://ijcai20.org/).
-* December 13, 2019, I will serve as the PC member for the [Genetic Improvement Workshop](https://geneticimprovementofsoftware.com/gi2020icse.html) to be held at ICSE 2020. 
-* December 5, 2019, We will hold the [Competition on Evolutionary Multi-task Optimization](http://www.bdsc.site/websites/MTO_competition_2020/MTO_Competition_GECCO_2020.html) in GECCO 2020. 
+* January 13, 2020. I will serve as the PC member for [IJCAI-PRICAI 2020](https://ijcai20.org/).
+* December 13, 2019. I will serve as the PC member for the [Genetic Improvement Workshop](https://geneticimprovementofsoftware.com/gi2020icse.html) to be held at ICSE 2020. 
+* December 5, 2019. We will hold the Competition on Evolutionary Multi-task Optimization at both [GECCO 2020](http://www.bdsc.site/websites/MTO_competition_2020/MTO_Competition_GECCO_2020.html) and [WCCI 2020](http://www.bdsc.site/websites/MTO_competition_2020/MTO_Competition_WCCI_2020.html). 
 * August 22, 2019. One paper was accepted to ACM TOSEM.
 * July 24, 2019. I will serve as the Guest Co-Editor for a special issue at Complexity.
 * May 23, 2019. I attended ICSE 2019 held at Montreal, QC, Canada.
