@@ -37,8 +37,11 @@ London, UK, 25-26 February, 2018
 
 ## Conference Activities
 
+* PC Member, <i>The 29th International Joint Conference on Artificial Intelligence and the 17th Pacific Rim International Conference on Artificial Intelligence<i>, 2020
+* PC Member, <i>The 8th Workshop on Genetic Improvement at ICSE<i>, 2020
+* Competition Co-Chair, Competition on Evolutionary Multi-task Optimization at [GECCO 2020](http://www.bdsc.site/websites/MTO_competition_2020/MTO_Competition_GECCO_2020.html) and [WCCI 2020](http://www.bdsc.site/websites/MTO_competition_2020/MTO_Competition_WCCI_2020.html)
 * Session Co-Chair, [Special Session on Memetic Computing](http://cec2019.org/programs/special_sessions.html#cec-01), <i>IEEE Congress on Evolutionary Computation</i>, 2019
-* Competition Co-Chair, [Competition on Evolutionary Multi-task Optimization](http://www.bdsc.site/websites/MTO_competiton_2019/MTO_Competition_CEC_2019.html), <i>IEEE Congress on Evolutionary Computation</i>, 2019.
+* Competition Co-Chair, [Competition on Evolutionary Multi-task Optimization](http://www.bdsc.site/websites/MTO_competiton_2019/MTO_Competition_CEC_2019.html), <i>IEEE Congress on Evolutionary Computation</i>, 2019
 * Competition Co-Chair, Competition on Evolutionary Multi-task Optimization, <i>IEEE World Congress on Computational Intelligence</i>, 2018
 * Program Committee Co-Chair, <i>International Workshop on Privacy, Security and Trust in Computational Intelligence</i>, 2018
 * Competition Co-Chair, Competition on Multifactorial Optimization: Evolutionary Single and Multi-Objective Multi-Tasking, <i>IEEE Congress on Evolutionary Computation</i>, 2017
@@ -64,9 +67,12 @@ London, UK, 25-26 February, 2018
 * Journal of Scheduling
 * Journal of Real-Time Image Processing
 * Journal of Computer Science and Technology
+* Journal of Computational Science
 * International Journal of Production Research
 * Engineering Optimization
 * Wireless Communications and Mobile Computing
+* Multimedia Tools and Applications
+* Software: Practice and Experience
 
 ## Reviewer for Conferences
 
