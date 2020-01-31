@@ -48,7 +48,7 @@ software engineering, and operations research. Currently I am interested in the 
 # Selected Publications ([Full List](https://yyxhdy.github.io/publications/))
 
 
-<b>[Towards better evolutionary program repair: An integrated approach](https://doi.org/10.1145/3360004)</b> <br> 
+<b>[Toward better evolutionary program repair: An integrated approach](https://doi.org/10.1145/3360004)</b> <br> 
 <b>Yuan Yuan</b>, Wolfgang Banzhaf.
 <i>[ACM Transactions on Software Engineering and Methodology](https://tosem.acm.org)</i>, 29(1):1-53, 2020.
 [[PDF]](http://yyxhdy.github.io/files/TOSEM2019.pdf)
