@@ -8,7 +8,7 @@ author_profile: true
 
 <b>[Towards better evolutionary program repair: An integrated approach](https://doi.org/10.1145/3360004)</b> <br> 
 <b>Yuan Yuan</b>, Wolfgang Banzhaf.
-<i>[ACM Transactions on Software Engineering and Methodology](https://tosem.acm.org)</i>, accepted.
+<i>[ACM Transactions on Software Engineering and Methodology](https://tosem.acm.org)</i>, 29(1):1-53, 2020.
 [[PDF]](http://yyxhdy.github.io/files/TOSEM2019.pdf)
 [[Code]](https://github.com/yyxhdy/arja/tree/arja-e)
 

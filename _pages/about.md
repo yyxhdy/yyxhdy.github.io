@@ -47,6 +47,13 @@ software engineering, and operations research. Currently I am interested in the 
 
 # Selected Publications ([Full List](https://yyxhdy.github.io/publications/))
 
+
+<b>[Towards better evolutionary program repair: An integrated approach](https://doi.org/10.1145/3360004)</b> <br> 
+<b>Yuan Yuan</b>, Wolfgang Banzhaf.
+<i>[ACM Transactions on Software Engineering and Methodology](https://tosem.acm.org)</i>, 29(1):1-53, 2020.
+[[PDF]](http://yyxhdy.github.io/files/TOSEM2019.pdf)
+[[Code]](https://github.com/yyxhdy/arja/tree/arja-e)
+
 <b>[ARJA: Automated repair of Java programs via multi-objective genetic programming](https://doi.org/10.1109/TSE.2018.2874648)</b> <br> 
 <b>Yuan Yuan</b>, Wolfgang Banzhaf.
 <i>[IEEE Transactions on Software Engineering](https://www.computer.org/csdl/journal/ts)</i>, in press.
