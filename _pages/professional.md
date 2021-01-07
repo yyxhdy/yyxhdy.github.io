@@ -22,7 +22,7 @@ London, UK, 25-26 February, 2018
 
 
 ## Journal Editorship
-
+* Guest Co-Editor,  <i>Memetic Computing</i>, [Special Issue on Advances in Memetic Automaton](http://csse.szu.edu.cn/staff/zhuzx/MCSI.html), 2021
 * Lead Guest Editor, <i>IEEE Transactions on Emerging Topics in Computational Intelligence</i>, 
 [Special Issue on Privacy and Security in Computational Intelligence](https://cis.ieee.org/images/files/Publications/TETCI/SI14_CFP_PSCI.pdf), 2019
 * Guest Co-Editor, <i>Complexity</i>, 
@@ -36,7 +36,7 @@ London, UK, 25-26 February, 2018
 
 
 ## Conference Activities
-
+* PC Memeber, <i>The 10th Workshop on Genetic Improvement at ICSE<i>, 2021
 * PC Member, <i>The 29th International Joint Conference on Artificial Intelligence and the 17th Pacific Rim International Conference on Artificial Intelligence<i>, 2020
 * PC Member, <i>The 8th Workshop on Genetic Improvement at ICSE<i>, 2020
 * Competition Co-Chair, Competition on Evolutionary Multi-task Optimization at [GECCO 2020](http://www.bdsc.site/websites/MTO_competition_2020/MTO_Competition_GECCO_2020.html) and [WCCI 2020](http://www.bdsc.site/websites/MTO_competition_2020/MTO_Competition_WCCI_2020.html)
@@ -52,16 +52,23 @@ London, UK, 25-26 February, 2018
 * IEEE Transactions on Evolutionary Computation 
 * IEEE Transactions on Automation Sicence and Engineering
 * IEEE Transactions on Cybernetics
+* IEEE Transactions on Intelligent Transportation Systems
 * IEEE Transactions on Industrial Informatics
 * IEEE Transactions on Emerging Topics in Computational Intelligence
+* IEEE Transactions on Vehicular Technology
+* IEEE Computational Intelligence Magazine
 * IEEE Access
+* ACM Transactions on Internet Technology
 * Information Sciences
 * Applied Soft Computing
 * Swarm and Evolutionary Computation
 * Computers & Industrial Engineering
+* Information and Software Technology
+* Pattern Recognition
 * Expert Systems with Applications
 * Journal of Network and Computer Applications
 * Soft Computing
+* Memetic Computing
 * Cluster Computing
 * Empirical Software Engineering
 * Journal of Scheduling
@@ -73,9 +80,10 @@ London, UK, 25-26 February, 2018
 * Wireless Communications and Mobile Computing
 * Multimedia Tools and Applications
 * Software: Practice and Experience
+* PeerJ
 
 ## Reviewer for Conferences
-
+* 
 * IEEE Congress on Evolutionary Computation (CEC), 2018
 * IEEE Congress on Evolutionary Computation (CEC), 2017
 * The 18th Asia Pacific Symposium on Intelligent and Evolutionary Systems (IES), 2014

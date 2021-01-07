@@ -11,10 +11,10 @@ redirect_from:
 I am a Postdoctoral Fellow (work with Prof. [Wolfgang Banzhaf](http://www.cse.msu.edu/~banzhafw/))
 at Michigan State University, USA. 
 I received the Ph.D. degree 
-(Advisor: Prof. [Bo Zhang](https://www.tsinghua.edu.cn/publish/csen/4623/2010/20101226104412516277601/20101226104412516277601_.html)) 
+(Advisor: Prof. [Bo Zhang](http://www.cs.tsinghua.edu.cn/publish/csen/4623/2010/20101226104412516277601/20101226104412516277601_.html)) 
 from Tsinghua University, China, in July 2015. From January 2014 to January 2015, 
 I was a visiting Ph.D. student (Advisor: Prof. [Xin Yao](http://www.cs.bham.ac.uk/~xin/))
-at University of Birmingham, UK. I was a Research Fellow (worked with Prof. [Yew-Soon Ong](https://www.ntu.edu.sg/home/asysong/)) 
+at University of Birmingham, UK. I was a Research Fellow (worked with Prof. [Yew-Soon Ong](https://www3.ntu.edu.sg/home/asysong/)) 
 at Nanyang Technological University, Singapore, from October 2015 to December 2016. 
 My research interests lie at the intersection of computational intelligence, 
 software engineering, and operations research. Currently I am interested in the following topics:
@@ -29,7 +29,8 @@ software engineering, and operations research. Currently I am interested in the 
 
 # News
 
-
+* January 6, 2021. I will serve as the PC member for the [Genetic Improvement Workshop@ICSE 2021](http://geneticimprovementofsoftware.com/events/icse2021.html). 
+* October 6, 2020, We orgainze a [Special Issue on Advances in Memetic Automaton](http://csse.szu.edu.cn/staff/zhuzx/MCSI.html) in the Memetic Computing Journal.
 * January 13, 2020. I will serve as the PC member for [IJCAI-PRICAI 2020](https://ijcai20.org/).
 * December 13, 2019. I will serve as the PC member for the [Genetic Improvement Workshop](https://geneticimprovementofsoftware.com/gi2020icse.html) to be held at ICSE 2020. 
 * December 5, 2019. We will hold the Competition on Evolutionary Multi-task Optimization at both [GECCO 2020](http://www.bdsc.site/websites/MTO_competition_2020/MTO_Competition_GECCO_2020.html) and [WCCI 2020](http://www.bdsc.site/websites/MTO_competition_2020/MTO_Competition_WCCI_2020.html). 
