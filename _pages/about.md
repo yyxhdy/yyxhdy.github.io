@@ -29,7 +29,7 @@ software engineering, and operations research. Currently I am interested in the 
 
 # News
 
-* January 6, 2021. I will serve as the PC member for the [Genetic Improvement Workshop@ICSE 2021](http://geneticimprovementofsoftware.com/events/icse2021.html). 
+* January 6, 2021. I will serve as the PC member for [The 10th International Workshop on Genetic Improvement @ICSE 2021](http://geneticimprovementofsoftware.com/events/icse2021.html). 
 * October 6, 2020, We orgainze a [Special Issue on Advances in Memetic Automaton](http://csse.szu.edu.cn/staff/zhuzx/MCSI.html) in the Memetic Computing Journal.
 * January 13, 2020. I will serve as the PC member for [IJCAI-PRICAI 2020](https://ijcai20.org/).
 * December 13, 2019. I will serve as the PC member for the [Genetic Improvement Workshop](https://geneticimprovementofsoftware.com/gi2020icse.html) to be held at ICSE 2020. 
